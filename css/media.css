@@ -1,0 +1,267 @@
+
+@media(max-width:2560px){
+    .hg {
+        min-height: 70vh;
+        align-items: end;
+    }
+    .header {
+        min-height: 80vh;
+    }
+    .header_banner h1 {
+        font-size: 145px;
+    }
+    .header_banner p {
+        font-size: 45px;
+    }
+    .btn_register {
+        font-size: 50px;
+    }
+}
+
+@media(max-width:1440px){
+    .header_banner h1 {
+        font-size: 111px;
+    }
+    .header_banner p {
+        font-size: 23px;
+    }
+    .btn_register {
+        font-size: 20px;
+    }
+    .nav-link {
+        font-size: 20px;
+    }
+    .navbar-brand img {
+        width: 100px;
+    }
+    .submit i {
+        font-size: 18px;
+    }
+    .header{
+        min-height: 0;
+    }
+    .hg {
+        min-height: 0;
+    }
+    .header_banner {
+        margin-top: 50%;
+        margin-bottom: 50px;
+    }
+    .header_banner h1 {
+        font-size: 99px;
+    }
+    .header_banner p {
+        font-size: 19px;
+    }
+    .btn_register {
+        font-size: 16px;
+    }
+}
+@media(max-width:1200px){
+
+}
+@media(max-width:991px){
+    .nav-link {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .header{
+        min-height: 0;
+    }
+    .hg {
+        min-height: 0;
+    }
+    .header_banner{
+        margin: 30% 0
+    }
+    .Dance_Tour_item_cont p {
+        font-size: 15px;
+    }
+    .amazing_cont {
+        text-align: center;
+    }
+    .amazing_pd{
+        margin-top: auto;
+        display: flex;
+    }
+    .Statistics {
+        padding: 45px 18px;
+    }
+    .Statistics p {
+        margin-bottom: 30px;
+    }
+    .Statistics_item span {
+        font-size: 30px;
+    }
+    .amazing_cont {
+        padding: 0px 0px ;
+    }
+    .btn_price {
+        padding: 5px 55px;
+    }
+}
+@media(max-width:767px){
+
+    footer {
+        padding: 40px 0;
+    }
+    footer p {
+        font-size: 15px;
+    }
+    .footer_right ul li {
+        margin-bottom: 0;
+    }
+    .footer_right ul li a {
+        font-size: 15px;
+        color: #E8631C;
+    }
+    footer h2 {
+        margin-bottom: 15px;
+    }
+    .btn_price {
+        padding: 5px 65px;
+    }
+    .footer_media {
+        text-align: end;
+    }
+    .subscribe {
+        padding: 30px 0;
+    }
+    .subscribe p {
+        font-size: 14px;
+    }
+    .Herbert_Simon p {
+        font-size: 19px;
+    }
+}
+@media(max-width:575px){
+    .header_banner h1 {
+        font-size: 60px;
+    }
+    .amazing_cont h1 {
+        font-size: 20px;
+        
+    }
+    .amazing_cont p {
+        font-size: 10px;
+    }
+    .btn_read_more {
+        padding: 15px 35px;
+        font-size: 10px;
+    }
+    .Statistics_item span {
+        font-size: 25px;
+    }
+    .Statistics_item h6 {
+        font-size: 12px;
+    }
+    .navbar-brand {
+        width: 15%;
+    }
+    .btn_register {
+        padding: 9px 40px;
+    }
+    .footer_icon ul li a {
+        color: #E8631C;
+    }
+    .footer_icon ul li {
+        background: transparent;
+    }
+    .active .search-txt {
+        width: 170px;
+    }
+}
+@media(max-width:425px){
+
+    .Dance_Tour_item_cont p {
+        font-size: 10px;
+    }
+    .pricing_item h1 {
+        font-size: 15px;
+    }
+    .btn_price {
+        padding: 5px 25px;
+    }
+    .pricing_item p {
+        font-size: 12px;
+    }
+    .amazing_cont h1 {
+        font-size: 14px;
+    }
+    .amazing_cont p {
+        font-size: 5px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+    form input[type="submit"] {
+        font-size: 10px;
+    }
+    .active .search-txt {
+        width: 110px;
+    }
+
+       
+}
+@media(max-width:375px){
+
+    .Statistics h1 {
+        font-size: 35px;
+    }
+    .Statistics p {
+        font-size: 15px;
+    }
+    .active .search-txt {
+        width: 100px;
+    }
+
+}
+@media(max-width:320px){
+    .navbar-brand {
+        width: 25%;
+        margin: 0;
+    }
+    .header_banner p {
+        font-size: 15px;
+    }
+    .Dance_Tour_item_cont h2 {
+        font-size: 18px;
+    }
+    .Dance_Tour_item_cont p {
+        font-size: 7px;
+    }
+    .btn_price {
+        padding: 5px 10px;
+    }
+    .btn_price {
+        font-size: 15px;
+    }
+    .pricing_item p {
+        font-size: 8px;
+    }
+    .Herbert_Simon p {
+        font-size: 15px;
+    }
+    .subscribe p {
+        font-size: 12px;
+    }
+    .subscribe h1 {
+        font-size: 35px;
+    }
+    .footer_icon ul li a {
+        font-size: 15px;
+    }
+    .active .search-txt {
+        width: 80px;
+    }
+}
+@media(max-width:300px){
+    .active .search-txt {
+        width: 50px;
+    }
+}
+@media(max-width:280px){
+    .active .search-txt {
+        width: 50px;
+    }
+}
